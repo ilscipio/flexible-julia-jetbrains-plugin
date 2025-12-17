@@ -12,7 +12,7 @@ If you have any feedback, suggestions, or issues with the plugin, please use our
 
 - Github repository: [Flexible Julia](https://github.com/ilscipio/flexible-julia-jetbrains-plugin)
 - Ilscipio Agency: [Ilscipio](https://www.ilscipio.com/en)
-- AI Project: [Aivory](https://aivory.net)
+- Our awesome developer tools: [Aivory](https://aivory.net)
 
 ## Features
 
