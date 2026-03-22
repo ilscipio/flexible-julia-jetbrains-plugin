@@ -1,4 +1,4 @@
-![A screenshot of a JetBrains IDE showing Julia code with syntax highlighting and intelligent code completion]([https://plugins.jetbrains.com/files/29356/screenshot_be9fb331-3c75-4902-8cbb-95615eaa5733](https://www.ilscipio.com/wp-content/uploads/2026/03/Screenshot-2026-01-25-072940.png))
+![A screenshot of a JetBrains IDE showing Julia code with syntax highlighting and intelligent code completion](https://www.ilscipio.com/wp-content/uploads/2026/03/Screenshot-2026-01-25-072940.png)
 
 # Flexible Julia
 
